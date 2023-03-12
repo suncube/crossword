@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crossword-380322",
+  "private_key_id": "e2ccda315948d0d69475556238dddbe37f15e2d1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCebQ4+NRfYWg7x\n72z9Vdb7anqh+hg5FCrp4MfLGEUjvZ8E41eZHrsy30z80LUZ105SHPjUatdkbth6\n0KECuiQgZ8j4I77W/AoBuMNzqQkHCT78wZ2HwDvqcukVTWXipTSNNt+PO9VoxUgO\nBjNUY00tB5KQljcRLjFPmA6sDnpPEUG/8OIuWhpFStOnyqiMdOZ7Ja/RXXBxc7Tt\nPzp4MfB7OcSqXSBsM7oamP4KvLfEVsvWbsyfMgElVODEBWPkEc7zSqG0WoW0wGjE\nAXwAxAFxrakJkkWQnmgYwejm6RpAZQVO2mzw9qqsTnFifaTa8zevM/HvfJH9EVuB\nDvC43vZ7AgMBAAECggEAEp2z/8FTZPvoJ6u/veEZWv+/G0t9Dy/8fvEH6SiX70Q3\n7GYehAKlcqvkqwyHS1sOe/2li6hmWQnhbEUZtm1TE2++oNHqee6x6lPgu7WQNwBy\nI1dJAIupPrp0AynOIBzTmQhqqrUYNbCA8AzweSkWB4WNRmowXFd2OekfSD6HRsUL\n9s7fi6XNHOjS62ALqE7b01OE1MfNi4S6F+t0Mq7rKYz0mcEWe6nx9mJjQKz1l2EP\nLbaRWa2Jw+hPu1FLtpUVmDlR/TkflICOTnwtBTjvvt4O8rvqN3eTRHi47uWX87fb\n075DX/zvGf8xNw1bfC7elrGTI1dEworI340Kh5kYOQKBgQDTkDCUURL6Aigb3zES\n7MhBv6fdA2JuWuTYfWP3QbEE7cxq1PQF6C146gSGt7R9XZLbJUbEntJGFuZYKTQN\nzbRke8VDGSzv4trVTHLr07weCXxzdI7k0idbOHiCjDgqOAr211OtX+8xhxDLZMtM\nA2dtzx1TPmpP2rae6HoPs73ItQKBgQC/s6me/ekO0dBy1Qild/c8LcR93Dht6ngz\n4FSo9qQYg4zcFk9mN412zIIx4PhlVuMaYrZwkvGM7y5rwz1XBa8WL+LoHK/V7Hx4\nRfnz49UYTV9Blumd3TihPE1Xm3aRpaDHPdkE9+d9s7VH6CL0XYjWbBmeB5Z+Ty4t\nk26MOwcwbwKBgFp5sHzNSztFztdUlM0OG/oaN3SKLP8augFnZmfoXQbJl4EcfxtD\nlqa+FZ9zUqnGabZ0c5ZEgZJd2rZbMJqynPHYCJ1QV+pi7skHP6Jg03NZBTLu5uku\ngow9UzQpOR+9BdtYbL2ZaFaa93C0M0jXr9TDHTxrVdW+qBi/POwYJxJ9AoGATDyX\n9UnG+ITKYBCGmr+FzCHrZZ5BtryrRv4szPEhOzp9tz0MIHtxP9B+6nUsc6jFMkYV\nhdl6RHEORf7kEwqIocszctmNuAaPTYmOqMZvhXWnrz7j80r57W082N1TnwJ+WR4o\ng0hPgHcKXelclU/pTlS5L1aXK+4zUB60tQH4jvMCgYAhHSS4iXm1qOGQeGAs3822\nSRz1h9Bs5EIqbd/JdXcAuC666CyjGlVKjgjnOohk8rvi25uQWvDkGtexucaDbAAO\nBR+GAFTTckMlPK8jrhAwYW9Yv3crI2vcIcxCoB7Jr6z1TllXkXSw0pVMsB0jyHLH\np1LTXK+PA4ZPcGsGFD5TTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "crosswordimporter@crossword-380322.iam.gserviceaccount.com",
+  "client_id": "110106677591534058671",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crosswordimporter%40crossword-380322.iam.gserviceaccount.com"
+}

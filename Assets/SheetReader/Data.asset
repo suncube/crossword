@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f28fa6fb54204ac4bd0a68055526cb1, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  SheetInfo:
+    Credentials: {fileID: 4900000, guid: cf91f84ada735495398b71218e49d5dc, type: 3}
+    SpreadsheetId: 1IH6bBbCAUyKA4PMi-YWKZHAzdPQrgNQsoBE9dB3NdEA
+    Sheets:
+    - Name: Board1
+      From: A
+      To: J
+  Parcer: {fileID: 11400000, guid: 471396e7087344a11a194e73f05c9b8a, type: 2}
